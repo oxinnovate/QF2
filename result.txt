@@ -1,0 +1,42 @@
+--- Testing with custom test cases ---
+Test case 1
+system: 
+user: Who is the CEO of Oxinnovate?
+Need more information.
+--------------------------------------------------
+Test case 2
+system: Qi is the CEO of Oxinnovate.
+user: Who is the CEO of Oxinnovate?
+The CEO of Oxinnovate is Qi.
+--------------------------------------------------
+Test case 3
+system: 
+user: Who is the CEO of Nvidia?
+Jensen Huang is the CEO of NVIDIA.
+--------------------------------------------------
+---------------First Round Training---------------
+system: 
+user: Who is the CEO of Oxinnovate?
+The CEO of Oxinnovate is Qi.
+--------------------------------------------------
+Test case 5
+system: 
+user: Who is the CEO of Nvidia?
+Jensen Huang is the CEO of Nvidia.
+--------------------------------------------------
+Test case 6
+system: 
+user: The founder of Oxinnovate?
+Qi.
+--------------------------------------------------
+------------Second Round Training-----------------
+Test case 7
+system: 
+user: How many people in Oxinnovate?
+the one '
+--------------------------------------------------
+Test case 8
+system: 
+user: The founder of Oxinnovate?
+the founder of Oxinnovate is Qi.
+--------------------------------------------------
