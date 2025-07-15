@@ -57,6 +57,12 @@ python qf2_learn.py
 If you use this framework in your research, please cite:
 
 ```bibtex
+@misc{qf_learning_2025,
+  title={QF: Quick Feedforward AI Model Training without Gradient Back Propagation},
+  author={Feng Qi},
+  year={2025},
+  cite={https://arxiv.org/abs/2507.04300}
+}
 @misc{qf2_learning_2025,
   title={QF2: Quick Fine-tuning Framework for Large Language Models},
   author={Feng Qi},
