@@ -67,7 +67,7 @@ If you use this framework in your research, please cite:
   title={QF2: Quick Fine-tuning Framework for Large Language Models},
   author={Feng Qi},
   year={2025},
-  url={https://huggingface.co/oxinnovate/QF2-1.5B-instruct}
+  url={https://www.preprints.org/manuscript/202507.2318/v1}
 }
 ```
 
