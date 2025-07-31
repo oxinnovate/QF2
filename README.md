@@ -2,6 +2,8 @@
 
 We propose Quick Firing (QF2) Learning, a novel, biologically inspired framework for knowledge consolidation in neural networks. QF2 enables direct, one-shot weight updates via firing-based synaptic rules, without gradient descent or matrix inversion, mimicking engram cell formation and Hebbian learning in the brain. This method is mathematically proven and experimentally validated on large language models, with open-source code and models. QF2 not only advances AI but also offers new inspiration for neuroscience and brain–machine interface research.
 
+<img width="885" height="740" alt="image" src="https://github.com/user-attachments/assets/dea6238f-32ee-4c64-8aa2-4121a4126236" />
+
 ## Installation
 
 ### Prerequisites
